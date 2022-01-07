@@ -5,8 +5,9 @@ start backend
 cd server/
 go run main.go
 ```
-
+start frontend
 ```shell
+npm install 
 npm run dev
 ```
 
